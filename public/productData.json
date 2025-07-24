@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "productName": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 699,
+    "brand": "Logitech"
+  },
+  {
+    "id": 2,
+    "productName": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 1499,
+    "brand": "Boat"
+  },
+  {
+    "id": 3,
+    "productName": "Running Shoes",
+    "category": "Footwear",
+    "price": 2299,
+    "brand": "Nike"
+  },
+  {
+    "id": 4,
+    "productName": "Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 599,
+    "brand": "Roadster"
+  },
+  {
+    "id": 5,
+    "productName": "Smart Watch",
+    "category": "Wearables",
+    "price": 3499,
+    "brand": "Noise"
+  },
+  {
+    "id": 6,
+    "productName": "Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 249,
+    "brand": "Milton"
+  },
+  {
+    "id": 7,
+    "productName": "Laptop Backpack",
+    "category": "Accessories",
+    "price": 1299,
+    "brand": "Wildcraft"
+  },
+  {
+    "id": 8,
+    "productName": "LED Desk Lamp",
+    "category": "Home & Living",
+    "price": 899,
+    "brand": "Philips"
+  },
+  {
+    "id": 9,
+    "productName": "Ceramic Mug Set",
+    "category": "Home & Kitchen",
+    "price": 499,
+    "brand": "La Opala"
+  },
+  {
+    "id": 10,
+    "productName": "Electric Kettle",
+    "category": "Appliances",
+    "price": 1199,
+    "brand": "Prestige"
+  }
+]

@@ -1,23 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import { useEffect, useState } from "react";
+import "./App.css";
+
+import DisplayDiv from "./components/DisplayDiv";
+import NavigationDiv from "./components/NavigationDiv";
 
 function App() {
+  const [products, setProducts] = useState([]);
+
+  useEffect(() => {
+    fetch("/productData.json")
+      .then((response) => response.json())
+      .then((data) => {
+        //console.log(data);
+        setProducts(data);
+      })
+      .catch((error) => console.log(error));
+  }, []);
+
+  console.log(products);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="head_div">Product Catelog</div>
+      <NavigationDiv></NavigationDiv>
+      <br></br>
+      <br></br>
+      {products.length > 0 ? (
+        <DisplayDiv data={products}></DisplayDiv>
+      ) : (
+        <div>Loading...</div>
+      )}
     </div>
   );
 }
