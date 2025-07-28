@@ -1,9 +1,13 @@
 .product_div {
   width: 200px;
   height: 190px;
-  border: solid;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
-    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border: none;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   border-radius: 10px;
   text-align: left;
+  background-color: deepskyblue;
+  color: cornsilk;
+  font-family: "Inter", sans-serif;
+  font-weight: lighter;
+  font-style: italic;
 }

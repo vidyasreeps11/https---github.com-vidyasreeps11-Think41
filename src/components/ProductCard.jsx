@@ -5,7 +5,7 @@ function ProductCard(props) {
     <div className="product_div">
       <label>Name: {props.name}</label>
       <br></br>
-      <label>Price:{props.price}</label>
+      <label>Price: Rs. {props.price}</label>
       <br></br>
       <label>Brand:{props.brand}</label>
       <br></br>

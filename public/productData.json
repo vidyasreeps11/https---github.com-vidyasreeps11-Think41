@@ -68,5 +68,145 @@
     "category": "Appliances",
     "price": 1199,
     "brand": "Prestige"
+  },
+  {
+    "id": 11,
+    "productName": "Gaming Keyboard",
+    "category": "Electronics",
+    "price": 2299,
+    "brand": "Redragon"
+  },
+  {
+    "id": 12,
+    "productName": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 1999,
+    "brand": "Realme"
+  },
+  {
+    "id": 13,
+    "productName": "Fitness Tracker",
+    "category": "Wearables",
+    "price": 1799,
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 14,
+    "productName": "Casual Sneakers",
+    "category": "Footwear",
+    "price": 2499,
+    "brand": "Puma"
+  },
+  {
+    "id": 15,
+    "productName": "Full Sleeve Shirt",
+    "category": "Apparel",
+    "price": 1099,
+    "brand": "Allen Solly"
+  },
+  {
+    "id": 16,
+    "productName": "Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 849,
+    "brand": "Oral-B"
+  },
+  {
+    "id": 17,
+    "productName": "Table Lamp",
+    "category": "Home & Living",
+    "price": 749,
+    "brand": "Wipro"
+  },
+  {
+    "id": 18,
+    "productName": "Ceramic Vase",
+    "category": "Home Decor",
+    "price": 999,
+    "brand": "Home Centre"
+  },
+  {
+    "id": 19,
+    "productName": "Microwave Oven",
+    "category": "Appliances",
+    "price": 5899,
+    "brand": "IFB"
+  },
+  {
+    "id": 20,
+    "productName": "Sunscreen Lotion",
+    "category": "Beauty",
+    "price": 499,
+    "brand": "Nivea"
+  },
+  {
+    "id": 21,
+    "productName": "Pressure Cooker",
+    "category": "Kitchen",
+    "price": 1699,
+    "brand": "Hawkins"
+  },
+  {
+    "id": 22,
+    "productName": "Yoga Mat",
+    "category": "Fitness",
+    "price": 699,
+    "brand": "Decathlon"
+  },
+  {
+    "id": 23,
+    "productName": "Laptop Stand",
+    "category": "Accessories",
+    "price": 899,
+    "brand": "AmazonBasics"
+  },
+  {
+    "id": 24,
+    "productName": "Cotton Bedsheet",
+    "category": "Home & Living",
+    "price": 1299,
+    "brand": "Bombay Dyeing"
+  },
+  {
+    "id": 25,
+    "productName": "Analog Watch",
+    "category": "Accessories",
+    "price": 1999,
+    "brand": "Titan"
+  },
+  {
+    "id": 26,
+    "productName": "Men's Wallet",
+    "category": "Fashion",
+    "price": 749,
+    "brand": "Fossil"
+  },
+  {
+    "id": 27,
+    "productName": "Coffee Maker",
+    "category": "Appliances",
+    "price": 2999,
+    "brand": "Morphy Richards"
+  },
+  {
+    "id": 28,
+    "productName": "Reusable Water Bottle",
+    "category": "Kitchen",
+    "price": 299,
+    "brand": "Cello"
+  },
+  {
+    "id": 29,
+    "productName": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1599,
+    "brand": "JBL"
+  },
+  {
+    "id": 30,
+    "productName": "Air Purifier",
+    "category": "Home Appliances",
+    "price": 7499,
+    "brand": "Dyson"
   }
 ]
